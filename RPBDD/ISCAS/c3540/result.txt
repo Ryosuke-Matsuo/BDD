@@ -1,0 +1,4620 @@
+Sub-circuit number : 1
+
+4-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 4.000000
+Average power : 24.414062
+
+-----Order from frequenct variables-----
+Node : 4
+Power : 24.414062
+
+-----Reverse order from frequent variables-----
+Node : 4
+Power : 24.414062
+
+-----Minimum power result-----
+Order : 1 2 3 4 
+Node : 4
+Power : 24.414062
+
+-----Minimum node result------
+Node : 4
+Min power : 24.414062
+Max power : 24.414062
+Average power : 24.414062
+
+------------------------------
+38
+
+Sub-circuit number : 2
+
+3-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 3.333333
+Average power : 44.531250
+
+-----Order from frequenct variables-----
+Node : 3
+Power : 32.031250
+
+-----Reverse order from frequent variables-----
+Node : 3
+Power : 50.781250
+
+-----Minimum power result-----
+Order : 3 1 2 
+Node : 3
+Power : 32.031250
+
+-----Minimum node result------
+Node : 3
+Min power : 32.031250
+Max power : 50.781250
+Average power : 41.406250
+
+------------------------------
+33
+
+Sub-circuit number : 3
+
+10-input logic function
+----------RESULT----------
+Time : 31.859375[s]
+Average nodes : 26.502381
+Average power : 1778.455257
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 160.278320
+
+-----Reverse order from frequent variables-----
+Node : 22
+Power : 4259.228706
+
+-----Minimum power result-----
+Order : 10 9 8 5 1 2 6 3 4 7 
+Node : 10
+Power : 160.278320
+
+-----Minimum node result------
+Node : 10
+Min power : 160.278320
+Max power : 233.520508
+Average power : 196.899414
+
+------------------------------
+311
+
+Sub-circuit number : 4
+
+9-input logic function
+----------RESULT----------
+Time : 2.750000[s]
+Average nodes : 23.044444
+Average power : 1440.799977
+
+-----Order from frequenct variables-----
+Node : 9
+Power : 675.975990
+
+-----Reverse order from frequent variables-----
+Node : 9
+Power : 1312.912941
+
+-----Minimum power result-----
+Order : 9 1 2 3 4 5 6 7 8 
+Node : 9
+Power : 675.975990
+
+-----Minimum node result------
+Node : 9
+Min power : 675.975990
+Max power : 1312.912941
+Average power : 865.370216
+
+------------------------------
+164
+
+Sub-circuit number : 5
+
+8-input logic function
+----------RESULT----------
+Time : 0.234375[s]
+Average nodes : 19.657143
+Average power : 931.180137
+
+-----Order from frequenct variables-----
+Node : 8
+Power : 530.780792
+
+-----Reverse order from frequent variables-----
+Node : 8
+Power : 530.780792
+
+-----Minimum power result-----
+Order : 1 2 3 4 5 6 7 8 
+Node : 8
+Power : 530.780792
+
+-----Minimum node result------
+Node : 8
+Min power : 530.780792
+Max power : 530.780792
+Average power : 530.780792
+
+------------------------------
+121
+
+Sub-circuit number : 6
+
+5-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 9.000000
+Average power : 488.281250
+
+-----Order from frequenct variables-----
+Node : 9
+Power : 488.281250
+
+-----Reverse order from frequent variables-----
+Node : 9
+Power : 488.281250
+
+-----Minimum power result-----
+Order : 1 2 3 4 5 
+Node : 9
+Power : 488.281250
+
+-----Minimum node result------
+Node : 9
+Min power : 488.281250
+Max power : 488.281250
+Average power : 488.281250
+
+------------------------------
+687
+
+Sub-circuit number : 7
+
+4-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 7.000000
+Average power : 195.312500
+
+-----Order from frequenct variables-----
+Node : 7
+Power : 195.312500
+
+-----Reverse order from frequent variables-----
+Node : 7
+Power : 195.312500
+
+-----Minimum power result-----
+Order : 1 2 3 4 
+Node : 7
+Power : 195.312500
+
+-----Minimum node result------
+Node : 7
+Min power : 195.312500
+Max power : 195.312500
+Average power : 195.312500
+
+------------------------------
+261
+
+Sub-circuit number : 8
+
+8-input logic function
+----------RESULT----------
+Time : 0.468750[s]
+Average nodes : 15.000000
+Average power : 7629.394531
+
+-----Order from frequenct variables-----
+Node : 15
+Power : 7629.394531
+
+-----Reverse order from frequent variables-----
+Node : 15
+Power : 7629.394531
+
+-----Minimum power result-----
+Order : 1 2 3 4 5 6 7 8 
+Node : 15
+Power : 7629.394531
+
+-----Minimum node result------
+Node : 15
+Min power : 7629.394531
+Max power : 7629.394531
+Average power : 7629.394531
+
+------------------------------
+10389
+
+Sub-circuit number : 9
+
+3-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 3.000000
+Average power : 19.531250
+
+-----Order from frequenct variables-----
+Node : 3
+Power : 19.531250
+
+-----Reverse order from frequent variables-----
+Node : 3
+Power : 19.531250
+
+-----Minimum power result-----
+Order : 1 2 3 
+Node : 3
+Power : 19.531250
+
+-----Minimum node result------
+Node : 3
+Min power : 19.531250
+Max power : 19.531250
+Average power : 19.531250
+
+------------------------------
+28
+
+Sub-circuit number : 10
+
+2-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 2.000000
+Average power : 15.625000
+
+-----Order from frequenct variables-----
+Node : 2
+Power : 15.625000
+
+-----Reverse order from frequent variables-----
+Node : 2
+Power : 15.625000
+
+-----Minimum power result-----
+Order : 1 2 
+Node : 2
+Power : 15.625000
+
+-----Minimum node result------
+Node : 2
+Min power : 15.625000
+Max power : 15.625000
+Average power : 15.625000
+
+------------------------------
+20
+
+Sub-circuit number : 11
+
+10-input logic function
+----------RESULT----------
+Time : 92.906250[s]
+Average nodes : 68.142857
+Average power : 6105.650289
+
+-----Order from frequenct variables-----
+Node : 37
+Power : 2859.115601
+
+-----Reverse order from frequent variables-----
+Node : 83
+Power : 7670.497894
+
+-----Minimum power result-----
+Order : 7 8 9 10 3 4 1 2 5 6 
+Node : 33
+Power : 2528.953552
+
+-----Minimum node result------
+Node : 28
+Min power : 2859.115601
+Max power : 2859.115601
+Average power : 2859.115601
+
+------------------------------
+739
+
+Sub-circuit number : 12
+
+8-input logic function
+----------RESULT----------
+Time : 0.515625[s]
+Average nodes : 25.258333
+Average power : 1045.124940
+
+-----Order from frequenct variables-----
+Node : 17
+Power : 356.826782
+
+-----Reverse order from frequent variables-----
+Node : 33
+Power : 4117.012024
+
+-----Minimum power result-----
+Order : 5 7 8 4 6 1 2 3 
+Node : 14
+Power : 265.274048
+
+-----Minimum node result------
+Node : 14
+Min power : 265.274048
+Max power : 265.274048
+Average power : 265.274048
+
+------------------------------
+325
+
+Sub-circuit number : 13
+
+8-input logic function
+----------RESULT----------
+Time : 0.250000[s]
+Average nodes : 15.669048
+Average power : 347.137451
+
+-----Order from frequenct variables-----
+Node : 8
+Power : 91.552734
+
+-----Reverse order from frequent variables-----
+Node : 19
+Power : 600.814819
+
+-----Minimum power result-----
+Order : 8 7 6 5 1 2 3 4 
+Node : 8
+Power : 91.552734
+
+-----Minimum node result------
+Node : 8
+Min power : 91.552734
+Max power : 91.552734
+Average power : 91.552734
+
+------------------------------
+173
+
+Sub-circuit number : 14
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 16.007143
+Average power : 445.017133
+
+-----Order from frequenct variables-----
+Node : 12
+Power : 213.623047
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 1197.814941
+
+-----Minimum power result-----
+Order : 7 2 4 5 3 1 6 
+Node : 8
+Power : 118.408203
+
+-----Minimum node result------
+Node : 8
+Min power : 118.408203
+Max power : 147.705078
+Average power : 137.000451
+
+------------------------------
+205
+
+Sub-circuit number : 15
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 23.066667
+Average power : 792.390006
+
+-----Order from frequenct variables-----
+Node : 23
+Power : 552.062988
+
+-----Reverse order from frequent variables-----
+Node : 25
+Power : 2403.259277
+
+-----Minimum power result-----
+Order : 6 5 4 2 3 1 7 
+Node : 13
+Power : 316.772461
+
+-----Minimum node result------
+Node : 13
+Min power : 316.772461
+Max power : 316.772461
+Average power : 316.772461
+
+------------------------------
+443
+
+Sub-circuit number : 16
+
+8-input logic function
+----------RESULT----------
+Time : 0.234375[s]
+Average nodes : 15.669048
+Average power : 347.137451
+
+-----Order from frequenct variables-----
+Node : 8
+Power : 91.552734
+
+-----Reverse order from frequent variables-----
+Node : 19
+Power : 600.814819
+
+-----Minimum power result-----
+Order : 8 7 6 5 1 2 3 4 
+Node : 8
+Power : 91.552734
+
+-----Minimum node result------
+Node : 8
+Min power : 91.552734
+Max power : 91.552734
+Average power : 91.552734
+
+------------------------------
+173
+
+Sub-circuit number : 17
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 16.007143
+Average power : 445.017133
+
+-----Order from frequenct variables-----
+Node : 12
+Power : 213.623047
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 1197.814941
+
+-----Minimum power result-----
+Order : 7 2 4 5 3 1 6 
+Node : 8
+Power : 118.408203
+
+-----Minimum node result------
+Node : 8
+Min power : 118.408203
+Max power : 147.705078
+Average power : 137.000451
+
+------------------------------
+205
+
+Sub-circuit number : 18
+
+10-input logic function
+----------RESULT----------
+Time : 94.046875[s]
+Average nodes : 68.142857
+Average power : 6105.650289
+
+-----Order from frequenct variables-----
+Node : 37
+Power : 2859.115601
+
+-----Reverse order from frequent variables-----
+Node : 83
+Power : 7670.497894
+
+-----Minimum power result-----
+Order : 7 8 9 10 3 4 1 2 5 6 
+Node : 33
+Power : 2528.953552
+
+-----Minimum node result------
+Node : 28
+Min power : 2859.115601
+Max power : 2859.115601
+Average power : 2859.115601
+
+------------------------------
+739
+
+Sub-circuit number : 19
+
+7-input logic function
+----------RESULT----------
+Time : 0.046875[s]
+Average nodes : 17.778571
+Average power : 569.109235
+
+-----Order from frequenct variables-----
+Node : 12
+Power : 260.009766
+
+-----Reverse order from frequent variables-----
+Node : 16
+Power : 1345.825195
+
+-----Minimum power result-----
+Order : 7 6 4 5 3 1 2 
+Node : 10
+Power : 168.457031
+
+-----Minimum node result------
+Node : 10
+Min power : 168.457031
+Max power : 168.457031
+Average power : 168.457031
+
+------------------------------
+222
+
+Sub-circuit number : 20
+
+8-input logic function
+----------RESULT----------
+Time : 0.234375[s]
+Average nodes : 15.669048
+Average power : 347.137451
+
+-----Order from frequenct variables-----
+Node : 8
+Power : 91.552734
+
+-----Reverse order from frequent variables-----
+Node : 19
+Power : 600.814819
+
+-----Minimum power result-----
+Order : 8 7 6 5 1 2 3 4 
+Node : 8
+Power : 91.552734
+
+-----Minimum node result------
+Node : 8
+Min power : 91.552734
+Max power : 91.552734
+Average power : 91.552734
+
+------------------------------
+173
+
+Sub-circuit number : 21
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 16.007143
+Average power : 445.017133
+
+-----Order from frequenct variables-----
+Node : 12
+Power : 213.623047
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 1197.814941
+
+-----Minimum power result-----
+Order : 7 2 4 5 3 1 6 
+Node : 8
+Power : 118.408203
+
+-----Minimum node result------
+Node : 8
+Min power : 118.408203
+Max power : 147.705078
+Average power : 137.000451
+
+------------------------------
+205
+
+Sub-circuit number : 22
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 20.028571
+Average power : 602.811541
+
+-----Order from frequenct variables-----
+Node : 21
+Power : 372.314453
+
+-----Reverse order from frequent variables-----
+Node : 24
+Power : 1251.220703
+
+-----Minimum power result-----
+Order : 3 5 4 6 7 1 2 
+Node : 11
+Power : 185.546875
+
+-----Minimum node result------
+Node : 11
+Min power : 185.546875
+Max power : 185.546875
+Average power : 185.546875
+
+------------------------------
+381
+
+Sub-circuit number : 23
+
+8-input logic function
+----------RESULT----------
+Time : 0.250000[s]
+Average nodes : 15.669048
+Average power : 347.137451
+
+-----Order from frequenct variables-----
+Node : 8
+Power : 91.552734
+
+-----Reverse order from frequent variables-----
+Node : 19
+Power : 600.814819
+
+-----Minimum power result-----
+Order : 8 7 6 5 1 2 3 4 
+Node : 8
+Power : 91.552734
+
+-----Minimum node result------
+Node : 8
+Min power : 91.552734
+Max power : 91.552734
+Average power : 91.552734
+
+------------------------------
+173
+
+Sub-circuit number : 24
+
+7-input logic function
+----------RESULT----------
+Time : 0.046875[s]
+Average nodes : 16.007143
+Average power : 445.017133
+
+-----Order from frequenct variables-----
+Node : 12
+Power : 213.623047
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 1197.814941
+
+-----Minimum power result-----
+Order : 7 2 4 5 3 1 6 
+Node : 8
+Power : 118.408203
+
+-----Minimum node result------
+Node : 8
+Min power : 118.408203
+Max power : 147.705078
+Average power : 137.000451
+
+------------------------------
+205
+
+Sub-circuit number : 25
+
+10-input logic function
+----------RESULT----------
+Time : 99.812500[s]
+Average nodes : 68.142857
+Average power : 6105.650289
+
+-----Order from frequenct variables-----
+Node : 37
+Power : 2859.115601
+
+-----Reverse order from frequent variables-----
+Node : 83
+Power : 7670.497894
+
+-----Minimum power result-----
+Order : 7 8 9 10 3 4 1 2 5 6 
+Node : 33
+Power : 2528.953552
+
+-----Minimum node result------
+Node : 28
+Min power : 2859.115601
+Max power : 2859.115601
+Average power : 2859.115601
+
+------------------------------
+739
+
+Sub-circuit number : 26
+
+8-input logic function
+----------RESULT----------
+Time : 0.484375[s]
+Average nodes : 26.741667
+Average power : 1141.692298
+
+-----Order from frequenct variables-----
+Node : 19
+Power : 416.641235
+
+-----Reverse order from frequent variables-----
+Node : 36
+Power : 3609.657288
+
+-----Minimum power result-----
+Order : 6 7 5 4 8 1 2 3 
+Node : 15
+Power : 325.088501
+
+-----Minimum node result------
+Node : 15
+Min power : 325.088501
+Max power : 325.088501
+Average power : 325.088501
+
+------------------------------
+356
+
+Sub-circuit number : 27
+
+8-input logic function
+----------RESULT----------
+Time : 0.281250[s]
+Average nodes : 15.669048
+Average power : 347.137451
+
+-----Order from frequenct variables-----
+Node : 8
+Power : 91.552734
+
+-----Reverse order from frequent variables-----
+Node : 19
+Power : 600.814819
+
+-----Minimum power result-----
+Order : 8 7 6 5 1 2 3 4 
+Node : 8
+Power : 91.552734
+
+-----Minimum node result------
+Node : 8
+Min power : 91.552734
+Max power : 91.552734
+Average power : 91.552734
+
+------------------------------
+173
+
+Sub-circuit number : 28
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 13.519048
+Average power : 366.487776
+
+-----Order from frequenct variables-----
+Node : 9
+Power : 118.408203
+
+-----Reverse order from frequent variables-----
+Node : 16
+Power : 785.827637
+
+-----Minimum power result-----
+Order : 7 5 4 1 2 6 3 
+Node : 7
+Power : 89.111328
+
+-----Minimum node result------
+Node : 7
+Min power : 89.111328
+Max power : 118.408203
+Average power : 103.759766
+
+------------------------------
+153
+
+Sub-circuit number : 29
+
+7-input logic function
+----------RESULT----------
+Time : 0.046875[s]
+Average nodes : 24.133333
+Average power : 737.837655
+
+-----Order from frequenct variables-----
+Node : 20
+Power : 424.194336
+
+-----Reverse order from frequent variables-----
+Node : 27
+Power : 1380.920410
+
+-----Minimum power result-----
+Order : 6 5 4 3 1 2 7 
+Node : 14
+Power : 332.641602
+
+-----Minimum node result------
+Node : 14
+Min power : 332.641602
+Max power : 332.641602
+Average power : 332.641602
+
+------------------------------
+536
+
+Sub-circuit number : 30
+
+8-input logic function
+----------RESULT----------
+Time : 0.250000[s]
+Average nodes : 15.669048
+Average power : 347.137451
+
+-----Order from frequenct variables-----
+Node : 8
+Power : 91.552734
+
+-----Reverse order from frequent variables-----
+Node : 19
+Power : 600.814819
+
+-----Minimum power result-----
+Order : 8 7 6 5 1 2 3 4 
+Node : 8
+Power : 91.552734
+
+-----Minimum node result------
+Node : 8
+Min power : 91.552734
+Max power : 91.552734
+Average power : 91.552734
+
+------------------------------
+173
+
+Sub-circuit number : 31
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 14.440476
+Average power : 381.518773
+
+-----Order from frequenct variables-----
+Node : 12
+Power : 184.326172
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 1037.597656
+
+-----Minimum power result-----
+Order : 7 3 4 5 1 2 6 
+Node : 8
+Power : 118.408203
+
+-----Minimum node result------
+Node : 8
+Min power : 118.408203
+Max power : 184.326172
+Average power : 143.459154
+
+------------------------------
+188
+
+Sub-circuit number : 32
+
+10-input logic function
+----------RESULT----------
+Time : 96.671875[s]
+Average nodes : 68.142857
+Average power : 6105.650289
+
+-----Order from frequenct variables-----
+Node : 37
+Power : 2859.115601
+
+-----Reverse order from frequent variables-----
+Node : 83
+Power : 7670.497894
+
+-----Minimum power result-----
+Order : 7 8 9 10 3 4 1 2 5 6 
+Node : 33
+Power : 2528.953552
+
+-----Minimum node result------
+Node : 28
+Min power : 2859.115601
+Max power : 2859.115601
+Average power : 2859.115601
+
+------------------------------
+739
+
+Sub-circuit number : 33
+
+7-input logic function
+----------RESULT----------
+Time : 0.046875[s]
+Average nodes : 19.509524
+Average power : 656.181335
+
+-----Order from frequenct variables-----
+Node : 15
+Power : 319.824219
+
+-----Reverse order from frequent variables-----
+Node : 24
+Power : 1655.578613
+
+-----Minimum power result-----
+Order : 6 7 4 3 5 1 2 
+Node : 11
+Power : 228.271484
+
+-----Minimum node result------
+Node : 11
+Min power : 228.271484
+Max power : 228.271484
+Average power : 228.271484
+
+------------------------------
+262
+
+Sub-circuit number : 34
+
+8-input logic function
+----------RESULT----------
+Time : 0.234375[s]
+Average nodes : 15.669048
+Average power : 347.137451
+
+-----Order from frequenct variables-----
+Node : 8
+Power : 91.552734
+
+-----Reverse order from frequent variables-----
+Node : 19
+Power : 600.814819
+
+-----Minimum power result-----
+Order : 8 7 6 5 1 2 3 4 
+Node : 8
+Power : 91.552734
+
+-----Minimum node result------
+Node : 8
+Min power : 91.552734
+Max power : 91.552734
+Average power : 91.552734
+
+------------------------------
+173
+
+Sub-circuit number : 35
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 14.440476
+Average power : 381.518773
+
+-----Order from frequenct variables-----
+Node : 12
+Power : 184.326172
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 1037.597656
+
+-----Minimum power result-----
+Order : 7 3 4 5 1 2 6 
+Node : 8
+Power : 118.408203
+
+-----Minimum node result------
+Node : 8
+Min power : 118.408203
+Max power : 184.326172
+Average power : 143.459154
+
+------------------------------
+188
+
+Sub-circuit number : 36
+
+7-input logic function
+----------RESULT----------
+Time : 0.046875[s]
+Average nodes : 20.585714
+Average power : 606.399536
+
+-----Order from frequenct variables-----
+Node : 21
+Power : 415.039062
+
+-----Reverse order from frequent variables-----
+Node : 24
+Power : 1335.144043
+
+-----Minimum power result-----
+Order : 3 4 6 5 7 1 2 
+Node : 14
+Power : 220.947266
+
+-----Minimum node result------
+Node : 13
+Min power : 250.244141
+Max power : 385.742188
+Average power : 271.693638
+
+------------------------------
+404
+
+Sub-circuit number : 37
+
+8-input logic function
+----------RESULT----------
+Time : 0.281250[s]
+Average nodes : 15.669048
+Average power : 347.137451
+
+-----Order from frequenct variables-----
+Node : 8
+Power : 91.552734
+
+-----Reverse order from frequent variables-----
+Node : 19
+Power : 600.814819
+
+-----Minimum power result-----
+Order : 8 7 6 5 1 2 3 4 
+Node : 8
+Power : 91.552734
+
+-----Minimum node result------
+Node : 8
+Min power : 91.552734
+Max power : 91.552734
+Average power : 91.552734
+
+------------------------------
+173
+
+Sub-circuit number : 38
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 14.440476
+Average power : 381.518773
+
+-----Order from frequenct variables-----
+Node : 12
+Power : 184.326172
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 1037.597656
+
+-----Minimum power result-----
+Order : 7 3 4 5 1 2 6 
+Node : 8
+Power : 118.408203
+
+-----Minimum node result------
+Node : 8
+Min power : 118.408203
+Max power : 184.326172
+Average power : 143.459154
+
+------------------------------
+188
+
+Sub-circuit number : 39
+
+9-input logic function
+----------RESULT----------
+Time : 2.437500[s]
+Average nodes : 15.265873
+Average power : 531.674113
+
+-----Order from frequenct variables-----
+Node : 12
+Power : 303.463936
+
+-----Reverse order from frequent variables-----
+Node : 12
+Power : 791.668892
+
+-----Minimum power result-----
+Order : 5 4 6 3 1 2 7 8 9 
+Node : 9
+Power : 168.332100
+
+-----Minimum node result------
+Node : 9
+Min power : 168.332100
+Max power : 1378.178596
+Average power : 471.963406
+
+------------------------------
+194
+
+Sub-circuit number : 40
+
+5-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 8.033333
+Average power : 103.759766
+
+-----Order from frequenct variables-----
+Node : 5
+Power : 68.359375
+
+-----Reverse order from frequent variables-----
+Node : 8
+Power : 104.980469
+
+-----Minimum power result-----
+Order : 3 4 1 2 5 
+Node : 5
+Power : 68.359375
+
+-----Minimum node result------
+Node : 5
+Min power : 68.359375
+Max power : 68.359375
+Average power : 68.359375
+
+------------------------------
+92
+
+Sub-circuit number : 41
+
+5-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 8.033333
+Average power : 103.759766
+
+-----Order from frequenct variables-----
+Node : 5
+Power : 68.359375
+
+-----Reverse order from frequent variables-----
+Node : 8
+Power : 104.980469
+
+-----Minimum power result-----
+Order : 3 4 1 2 5 
+Node : 5
+Power : 68.359375
+
+-----Minimum node result------
+Node : 5
+Min power : 68.359375
+Max power : 68.359375
+Average power : 68.359375
+
+------------------------------
+92
+
+Sub-circuit number : 42
+
+10-input logic function
+----------RESULT----------
+Time : 52.328125[s]
+Average nodes : 41.946429
+Average power : 3442.870804
+
+-----Order from frequenct variables-----
+Node : 31
+Power : 2218.608856
+
+-----Reverse order from frequent variables-----
+Node : 46
+Power : 4221.635342
+
+-----Minimum power result-----
+Order : 2 3 4 10 6 9 7 8 5 1 
+Node : 19
+Power : 1010.234070
+
+-----Minimum node result------
+Node : 17
+Min power : 1260.573578
+Max power : 1930.675507
+Average power : 1595.624542
+
+------------------------------
+473
+
+Sub-circuit number : 43
+
+10-input logic function
+----------RESULT----------
+Time : 57.640625[s]
+Average nodes : 44.060714
+Average power : 2769.052492
+
+-----Order from frequenct variables-----
+Node : 30
+Power : 1637.554169
+
+-----Reverse order from frequent variables-----
+Node : 43
+Power : 2951.264381
+
+-----Minimum power result-----
+Order : 10 6 8 3 9 2 7 5 4 1 
+Node : 22
+Power : 944.328308
+
+-----Minimum node result------
+Node : 17
+Min power : 1082.973480
+Max power : 1452.159882
+Average power : 1267.566681
+
+------------------------------
+972
+
+Sub-circuit number : 44
+
+10-input logic function
+----------RESULT----------
+Time : 51.265625[s]
+Average nodes : 41.946429
+Average power : 3442.870804
+
+-----Order from frequenct variables-----
+Node : 31
+Power : 2218.608856
+
+-----Reverse order from frequent variables-----
+Node : 46
+Power : 4221.635342
+
+-----Minimum power result-----
+Order : 2 3 4 10 6 9 7 8 5 1 
+Node : 19
+Power : 1010.234070
+
+-----Minimum node result------
+Node : 17
+Min power : 1260.573578
+Max power : 1930.675507
+Average power : 1595.624542
+
+------------------------------
+473
+
+Sub-circuit number : 45
+
+10-input logic function
+----------RESULT----------
+Time : 59.468750[s]
+Average nodes : 44.060714
+Average power : 2769.052492
+
+-----Order from frequenct variables-----
+Node : 30
+Power : 1637.554169
+
+-----Reverse order from frequent variables-----
+Node : 43
+Power : 2951.264381
+
+-----Minimum power result-----
+Order : 10 6 8 3 9 2 7 5 4 1 
+Node : 22
+Power : 944.328308
+
+-----Minimum node result------
+Node : 17
+Min power : 1082.973480
+Max power : 1452.159882
+Average power : 1267.566681
+
+------------------------------
+972
+
+Sub-circuit number : 46
+
+6-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 10.316667
+Average power : 220.898438
+
+-----Order from frequenct variables-----
+Node : 8
+Power : 126.037598
+
+-----Reverse order from frequent variables-----
+Node : 10
+Power : 257.873535
+
+-----Minimum power result-----
+Order : 5 4 3 1 2 6 
+Node : 6
+Power : 102.600098
+
+-----Minimum node result------
+Node : 6
+Min power : 102.600098
+Max power : 162.658691
+Average power : 132.629395
+
+------------------------------
+91
+
+Sub-circuit number : 47
+
+5-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 8.033333
+Average power : 103.759766
+
+-----Order from frequenct variables-----
+Node : 5
+Power : 68.359375
+
+-----Reverse order from frequent variables-----
+Node : 8
+Power : 104.980469
+
+-----Minimum power result-----
+Order : 3 4 1 2 5 
+Node : 5
+Power : 68.359375
+
+-----Minimum node result------
+Node : 5
+Min power : 68.359375
+Max power : 68.359375
+Average power : 68.359375
+
+------------------------------
+92
+
+Sub-circuit number : 48
+
+8-input logic function
+----------RESULT----------
+Time : 0.656250[s]
+Average nodes : 26.297619
+Average power : 1247.117179
+
+-----Order from frequenct variables-----
+Node : 14
+Power : 239.257812
+
+-----Reverse order from frequent variables-----
+Node : 57
+Power : 3017.425537
+
+-----Minimum power result-----
+Order : 5 7 8 1 2 3 4 6 
+Node : 10
+Power : 239.257812
+
+-----Minimum node result------
+Node : 10
+Min power : 239.257812
+Max power : 239.257812
+Average power : 239.257812
+
+------------------------------
+458
+
+Sub-circuit number : 49
+
+5-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 5.000000
+Average power : 30.517578
+
+-----Order from frequenct variables-----
+Node : 5
+Power : 30.517578
+
+-----Reverse order from frequent variables-----
+Node : 5
+Power : 30.517578
+
+-----Minimum power result-----
+Order : 1 2 3 4 5 
+Node : 5
+Power : 30.517578
+
+-----Minimum node result------
+Node : 5
+Min power : 30.517578
+Max power : 30.517578
+Average power : 30.517578
+
+------------------------------
+49
+
+Sub-circuit number : 50
+
+8-input logic function
+----------RESULT----------
+Time : 0.593750[s]
+Average nodes : 26.297619
+Average power : 1247.117179
+
+-----Order from frequenct variables-----
+Node : 14
+Power : 239.257812
+
+-----Reverse order from frequent variables-----
+Node : 57
+Power : 3017.425537
+
+-----Minimum power result-----
+Order : 5 7 8 1 2 3 4 6 
+Node : 10
+Power : 239.257812
+
+-----Minimum node result------
+Node : 10
+Min power : 239.257812
+Max power : 239.257812
+Average power : 239.257812
+
+------------------------------
+458
+
+Sub-circuit number : 51
+
+10-input logic function
+----------RESULT----------
+Time : 34.593750[s]
+Average nodes : 21.479762
+Average power : 1156.265231
+
+-----Order from frequenct variables-----
+Node : 13
+Power : 230.102539
+
+-----Reverse order from frequent variables-----
+Node : 23
+Power : 2945.542336
+
+-----Minimum power result-----
+Order : 10 8 5 6 9 1 2 3 4 7 
+Node : 11
+Power : 164.184570
+
+-----Minimum node result------
+Node : 11
+Min power : 164.184570
+Max power : 652.441025
+Average power : 295.349961
+
+------------------------------
+216
+
+Sub-circuit number : 52
+
+8-input logic function
+----------RESULT----------
+Time : 0.359375[s]
+Average nodes : 15.850000
+Average power : 585.720634
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 206.436157
+
+-----Reverse order from frequent variables-----
+Node : 18
+Power : 1147.460938
+
+-----Minimum power result-----
+Order : 8 3 7 2 6 5 1 4 
+Node : 8
+Power : 140.518188
+
+-----Minimum node result------
+Node : 8
+Min power : 140.518188
+Max power : 140.518188
+Average power : 140.518188
+
+------------------------------
+196
+
+Sub-circuit number : 53
+
+9-input logic function
+----------RESULT----------
+Time : 4.656250[s]
+Average nodes : 28.980952
+Average power : 1690.226328
+
+-----Order from frequenct variables-----
+Node : 17
+Power : 973.505020
+
+-----Reverse order from frequent variables-----
+Node : 16
+Power : 1591.691971
+
+-----Minimum power result-----
+Order : 1 2 9 3 4 5 6 7 8 
+Node : 16
+Power : 973.505020
+
+-----Minimum node result------
+Node : 16
+Min power : 973.505020
+Max power : 1591.691971
+Average power : 1191.497803
+
+------------------------------
+390
+
+Sub-circuit number : 54
+
+4-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 4.000000
+Average power : 24.414062
+
+-----Order from frequenct variables-----
+Node : 4
+Power : 24.414062
+
+-----Reverse order from frequent variables-----
+Node : 4
+Power : 24.414062
+
+-----Minimum power result-----
+Order : 1 2 3 4 
+Node : 4
+Power : 24.414062
+
+-----Minimum node result------
+Node : 4
+Min power : 24.414062
+Max power : 24.414062
+Average power : 24.414062
+
+------------------------------
+38
+
+Sub-circuit number : 55
+
+6-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 13.033333
+Average power : 288.604736
+
+-----Order from frequenct variables-----
+Node : 11
+Power : 162.658691
+
+-----Reverse order from frequent variables-----
+Node : 13
+Power : 340.270996
+
+-----Minimum power result-----
+Order : 6 2 5 4 3 1 
+Node : 8
+Power : 162.658691
+
+-----Minimum node result------
+Node : 8
+Min power : 162.658691
+Max power : 257.873535
+Average power : 194.396973
+
+------------------------------
+161
+
+Sub-circuit number : 56
+
+9-input logic function
+----------RESULT----------
+Time : 3.281250[s]
+Average nodes : 19.511508
+Average power : 1103.653851
+
+-----Order from frequenct variables-----
+Node : 11
+Power : 202.697754
+
+-----Reverse order from frequent variables-----
+Node : 16
+Power : 1927.328110
+
+-----Minimum power result-----
+Order : 7 9 1 2 3 4 5 6 8 
+Node : 9
+Power : 160.510254
+
+-----Minimum node result------
+Node : 9
+Min power : 160.510254
+Max power : 321.350098
+Average power : 233.605957
+
+------------------------------
+197
+
+Sub-circuit number : 57
+
+3-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 3.000000
+Average power : 19.531250
+
+-----Order from frequenct variables-----
+Node : 3
+Power : 19.531250
+
+-----Reverse order from frequent variables-----
+Node : 3
+Power : 19.531250
+
+-----Minimum power result-----
+Order : 1 2 3 
+Node : 3
+Power : 19.531250
+
+-----Minimum node result------
+Node : 3
+Min power : 19.531250
+Max power : 19.531250
+Average power : 19.531250
+
+------------------------------
+28
+
+Sub-circuit number : 58
+
+4-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 4.666667
+Average power : 43.945312
+
+-----Order from frequenct variables-----
+Node : 4
+Power : 43.945312
+
+-----Reverse order from frequent variables-----
+Node : 4
+Power : 43.945312
+
+-----Minimum power result-----
+Order : 1 2 3 4 
+Node : 4
+Power : 43.945312
+
+-----Minimum node result------
+Node : 4
+Min power : 43.945312
+Max power : 43.945312
+Average power : 43.945312
+
+------------------------------
+57
+
+Sub-circuit number : 59
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 15.592857
+Average power : 378.330776
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 107.177734
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 736.236572
+
+-----Minimum power result-----
+Order : 7 4 5 6 1 2 3 
+Node : 8
+Power : 107.177734
+
+-----Minimum node result------
+Node : 8
+Min power : 107.177734
+Max power : 107.177734
+Average power : 107.177734
+
+------------------------------
+181
+
+Sub-circuit number : 60
+
+10-input logic function
+----------RESULT----------
+Time : 35.875000[s]
+Average nodes : 28.059524
+Average power : 1804.831067
+
+-----Order from frequenct variables-----
+Node : 19
+Power : 450.500488
+
+-----Reverse order from frequent variables-----
+Node : 108
+Power : 6145.536900
+
+-----Minimum power result-----
+Order : 6 9 8 4 3 2 7 1 5 10 
+Node : 12
+Power : 203.234863
+
+-----Minimum node result------
+Node : 12
+Min power : 203.234863
+Max power : 569.152832
+Average power : 356.530762
+
+------------------------------
+569
+
+Sub-circuit number : 61
+
+7-input logic function
+----------RESULT----------
+Time : 0.046875[s]
+Average nodes : 15.592857
+Average power : 378.330776
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 107.177734
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 736.236572
+
+-----Minimum power result-----
+Order : 7 4 5 6 1 2 3 
+Node : 8
+Power : 107.177734
+
+-----Minimum node result------
+Node : 8
+Min power : 107.177734
+Max power : 107.177734
+Average power : 107.177734
+
+------------------------------
+181
+
+Sub-circuit number : 62
+
+10-input logic function
+----------RESULT----------
+Time : 35.687500[s]
+Average nodes : 28.059524
+Average power : 1804.831067
+
+-----Order from frequenct variables-----
+Node : 19
+Power : 450.500488
+
+-----Reverse order from frequent variables-----
+Node : 108
+Power : 6145.536900
+
+-----Minimum power result-----
+Order : 6 9 8 4 3 2 7 1 5 10 
+Node : 12
+Power : 203.234863
+
+-----Minimum node result------
+Node : 12
+Min power : 203.234863
+Max power : 569.152832
+Average power : 356.530762
+
+------------------------------
+569
+
+Sub-circuit number : 63
+
+9-input logic function
+----------RESULT----------
+Time : 2.562500[s]
+Average nodes : 22.150000
+Average power : 831.663609
+
+-----Order from frequenct variables-----
+Node : 17
+Power : 894.069672
+
+-----Reverse order from frequent variables-----
+Node : 14
+Power : 751.018524
+
+-----Minimum power result-----
+Order : 1 2 5 3 4 6 7 8 9 
+Node : 14
+Power : 693.798065
+
+-----Minimum node result------
+Node : 14
+Min power : 693.798065
+Max power : 822.544098
+Average power : 731.511550
+
+------------------------------
+835
+
+Sub-circuit number : 64
+
+8-input logic function
+----------RESULT----------
+Time : 0.250000[s]
+Average nodes : 16.367857
+Average power : 529.656410
+
+-----Order from frequenct variables-----
+Node : 8
+Power : 137.771606
+
+-----Reverse order from frequent variables-----
+Node : 12
+Power : 821.876526
+
+-----Minimum power result-----
+Order : 8 7 6 3 1 2 4 5 
+Node : 8
+Power : 137.771606
+
+-----Minimum node result------
+Node : 8
+Min power : 137.771606
+Max power : 183.547974
+Average power : 160.659790
+
+------------------------------
+175
+
+Sub-circuit number : 65
+
+5-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 7.766667
+Average power : 140.976562
+
+-----Order from frequenct variables-----
+Node : 8
+Power : 126.953125
+
+-----Reverse order from frequent variables-----
+Node : 12
+Power : 200.195312
+
+-----Minimum power result-----
+Order : 3 5 1 2 4 
+Node : 6
+Power : 61.328125
+
+-----Minimum node result------
+Node : 6
+Min power : 61.328125
+Max power : 126.953125
+Average power : 94.140625
+
+------------------------------
+80
+
+Sub-circuit number : 66
+
+4-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 4.500000
+Average power : 62.695312
+
+-----Order from frequenct variables-----
+Node : 4
+Power : 36.914062
+
+-----Reverse order from frequent variables-----
+Node : 4
+Power : 79.101562
+
+-----Minimum power result-----
+Order : 4 1 2 3 
+Node : 4
+Power : 36.914062
+
+-----Minimum node result------
+Node : 4
+Min power : 36.914062
+Max power : 79.101562
+Average power : 58.007812
+
+------------------------------
+44
+
+Sub-circuit number : 67
+
+4-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 4.833333
+Average power : 55.664062
+
+-----Order from frequenct variables-----
+Node : 4
+Power : 40.039062
+
+-----Reverse order from frequent variables-----
+Node : 4
+Power : 63.476562
+
+-----Minimum power result-----
+Order : 3 1 2 4 
+Node : 4
+Power : 40.039062
+
+-----Minimum node result------
+Node : 4
+Min power : 40.039062
+Max power : 63.476562
+Average power : 51.757812
+
+------------------------------
+50
+
+Sub-circuit number : 68
+
+9-input logic function
+----------RESULT----------
+Time : 4.906250[s]
+Average nodes : 33.326190
+Average power : 2124.692406
+
+-----Order from frequenct variables-----
+Node : 27
+Power : 773.696899
+
+-----Reverse order from frequent variables-----
+Node : 27
+Power : 3928.661346
+
+-----Minimum power result-----
+Order : 8 1 4 2 3 5 7 6 9 
+Node : 13
+Power : 691.299438
+
+-----Minimum node result------
+Node : 13
+Min power : 691.299438
+Max power : 691.299438
+Average power : 691.299438
+
+------------------------------
+1004
+
+Sub-circuit number : 69
+
+8-input logic function
+----------RESULT----------
+Time : 0.593750[s]
+Average nodes : 26.297619
+Average power : 1247.117179
+
+-----Order from frequenct variables-----
+Node : 14
+Power : 239.257812
+
+-----Reverse order from frequent variables-----
+Node : 57
+Power : 3017.425537
+
+-----Minimum power result-----
+Order : 5 7 8 1 2 3 4 6 
+Node : 10
+Power : 239.257812
+
+-----Minimum node result------
+Node : 10
+Min power : 239.257812
+Max power : 239.257812
+Average power : 239.257812
+
+------------------------------
+458
+
+Sub-circuit number : 70
+
+9-input logic function
+----------RESULT----------
+Time : 2.796875[s]
+Average nodes : 20.226190
+Average power : 1120.444516
+
+-----Order from frequenct variables-----
+Node : 13
+Power : 535.862923
+
+-----Reverse order from frequent variables-----
+Node : 13
+Power : 1540.493965
+
+-----Minimum power result-----
+Order : 8 9 1 2 3 4 5 6 7 
+Node : 9
+Power : 377.495003
+
+-----Minimum node result------
+Node : 9
+Min power : 377.495003
+Max power : 1289.181709
+Average power : 713.580513
+
+------------------------------
+152
+
+Sub-circuit number : 71
+
+7-input logic function
+----------RESULT----------
+Time : 0.046875[s]
+Average nodes : 15.592857
+Average power : 378.330776
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 107.177734
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 736.236572
+
+-----Minimum power result-----
+Order : 7 4 5 6 1 2 3 
+Node : 8
+Power : 107.177734
+
+-----Minimum node result------
+Node : 8
+Min power : 107.177734
+Max power : 107.177734
+Average power : 107.177734
+
+------------------------------
+181
+
+Sub-circuit number : 72
+
+10-input logic function
+----------RESULT----------
+Time : 35.203125[s]
+Average nodes : 28.059524
+Average power : 1804.831067
+
+-----Order from frequenct variables-----
+Node : 18
+Power : 413.879395
+
+-----Reverse order from frequent variables-----
+Node : 100
+Power : 6123.185158
+
+-----Minimum power result-----
+Order : 6 10 7 8 1 2 3 9 4 5 
+Node : 12
+Power : 203.234863
+
+-----Minimum node result------
+Node : 12
+Min power : 203.234863
+Max power : 569.152832
+Average power : 356.530762
+
+------------------------------
+562
+
+Sub-circuit number : 73
+
+7-input logic function
+----------RESULT----------
+Time : 0.015625[s]
+Average nodes : 13.133333
+Average power : 217.056274
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 91.552734
+
+-----Reverse order from frequent variables-----
+Node : 23
+Power : 400.543213
+
+-----Minimum power result-----
+Order : 6 1 5 2 3 4 7 
+Node : 8
+Power : 91.552734
+
+-----Minimum node result------
+Node : 8
+Min power : 91.552734
+Max power : 91.552734
+Average power : 91.552734
+
+------------------------------
+159
+
+Sub-circuit number : 74
+
+10-input logic function
+----------RESULT----------
+Time : 42.718750[s]
+Average nodes : 32.738492
+Average power : 2479.542043
+
+-----Order from frequenct variables-----
+Node : 18
+Power : 486.145020
+
+-----Reverse order from frequent variables-----
+Node : 89
+Power : 8728.623390
+
+-----Minimum power result-----
+Order : 5 9 8 7 4 1 3 10 2 6 
+Node : 12
+Power : 222.766113
+
+-----Minimum node result------
+Node : 12
+Min power : 222.766113
+Max power : 470.031738
+Average power : 346.398926
+
+------------------------------
+592
+
+Sub-circuit number : 75
+
+8-input logic function
+----------RESULT----------
+Time : 0.375000[s]
+Average nodes : 19.702381
+Average power : 880.653872
+
+-----Order from frequenct variables-----
+Node : 17
+Power : 350.646973
+
+-----Reverse order from frequent variables-----
+Node : 53
+Power : 2257.347107
+
+-----Minimum power result-----
+Order : 5 8 7 4 1 3 2 6 
+Node : 9
+Power : 160.510254
+
+-----Minimum node result------
+Node : 9
+Min power : 160.510254
+Max power : 321.350098
+Average power : 240.930176
+
+------------------------------
+248
+
+Sub-circuit number : 76
+
+9-input logic function
+----------RESULT----------
+Time : 3.562500[s]
+Average nodes : 26.535317
+Average power : 1896.747916
+
+-----Order from frequenct variables-----
+Node : 25
+Power : 2599.128723
+
+-----Reverse order from frequent variables-----
+Node : 16
+Power : 1087.290955
+
+-----Minimum power result-----
+Order : 1 2 3 6 5 7 4 8 9 
+Node : 13
+Power : 1087.290955
+
+-----Minimum node result------
+Node : 13
+Min power : 1087.290955
+Max power : 3731.727600
+Average power : 2028.894043
+
+------------------------------
+1144
+
+Sub-circuit number : 77
+
+4-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 5.500000
+Average power : 67.871094
+
+-----Order from frequenct variables-----
+Node : 4
+Power : 35.156250
+
+-----Reverse order from frequent variables-----
+Node : 6
+Power : 87.890625
+
+-----Minimum power result-----
+Order : 4 1 2 3 
+Node : 4
+Power : 35.156250
+
+-----Minimum node result------
+Node : 4
+Min power : 35.156250
+Max power : 35.156250
+Average power : 35.156250
+
+------------------------------
+50
+
+Sub-circuit number : 78
+
+3-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 3.000000
+Average power : 19.531250
+
+-----Order from frequenct variables-----
+Node : 3
+Power : 19.531250
+
+-----Reverse order from frequent variables-----
+Node : 3
+Power : 19.531250
+
+-----Minimum power result-----
+Order : 1 2 3 
+Node : 3
+Power : 19.531250
+
+-----Minimum node result------
+Node : 3
+Min power : 19.531250
+Max power : 19.531250
+Average power : 19.531250
+
+------------------------------
+28
+
+Sub-circuit number : 79
+
+8-input logic function
+----------RESULT----------
+Time : 0.578125[s]
+Average nodes : 26.297619
+Average power : 1247.117179
+
+-----Order from frequenct variables-----
+Node : 14
+Power : 239.257812
+
+-----Reverse order from frequent variables-----
+Node : 57
+Power : 3017.425537
+
+-----Minimum power result-----
+Order : 5 7 8 1 2 3 4 6 
+Node : 10
+Power : 239.257812
+
+-----Minimum node result------
+Node : 10
+Min power : 239.257812
+Max power : 239.257812
+Average power : 239.257812
+
+------------------------------
+458
+
+Sub-circuit number : 80
+
+4-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 4.000000
+Average power : 24.414062
+
+-----Order from frequenct variables-----
+Node : 4
+Power : 24.414062
+
+-----Reverse order from frequent variables-----
+Node : 4
+Power : 24.414062
+
+-----Minimum power result-----
+Order : 1 2 3 4 
+Node : 4
+Power : 24.414062
+
+-----Minimum node result------
+Node : 4
+Min power : 24.414062
+Max power : 24.414062
+Average power : 24.414062
+
+------------------------------
+38
+
+Sub-circuit number : 81
+
+8-input logic function
+----------RESULT----------
+Time : 0.640625[s]
+Average nodes : 26.297619
+Average power : 1247.117179
+
+-----Order from frequenct variables-----
+Node : 14
+Power : 239.257812
+
+-----Reverse order from frequent variables-----
+Node : 57
+Power : 3017.425537
+
+-----Minimum power result-----
+Order : 5 7 8 1 2 3 4 6 
+Node : 10
+Power : 239.257812
+
+-----Minimum node result------
+Node : 10
+Min power : 239.257812
+Max power : 239.257812
+Average power : 239.257812
+
+------------------------------
+458
+
+Sub-circuit number : 82
+
+10-input logic function
+----------RESULT----------
+Time : 26.328125[s]
+Average nodes : 17.786508
+Average power : 828.492812
+
+-----Order from frequenct variables-----
+Node : 14
+Power : 429.378748
+
+-----Reverse order from frequent variables-----
+Node : 14
+Power : 1419.693232
+
+-----Minimum power result-----
+Order : 6 5 4 3 1 2 7 8 9 10 
+Node : 10
+Power : 237.026453
+
+-----Minimum node result------
+Node : 10
+Min power : 237.026453
+Max power : 2404.600382
+Average power : 743.021488
+
+------------------------------
+245
+
+Sub-circuit number : 83
+
+8-input logic function
+----------RESULT----------
+Time : 0.156250[s]
+Average nodes : 11.766667
+Average power : 191.211700
+
+-----Order from frequenct variables-----
+Node : 9
+Power : 183.582306
+
+-----Reverse order from frequent variables-----
+Node : 9
+Power : 240.802765
+
+-----Minimum power result-----
+Order : 3 1 2 4 5 6 7 8 
+Node : 8
+Power : 137.805939
+
+-----Minimum node result------
+Node : 8
+Min power : 137.805939
+Max power : 240.802765
+Average power : 174.999237
+
+------------------------------
+179
+
+Sub-circuit number : 84
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 14.004762
+Average power : 383.476911
+
+-----Order from frequenct variables-----
+Node : 12
+Power : 266.723633
+
+-----Reverse order from frequent variables-----
+Node : 17
+Power : 399.017334
+
+-----Minimum power result-----
+Order : 6 1 3 7 2 5 4 
+Node : 7
+Power : 140.747070
+
+-----Minimum node result------
+Node : 7
+Min power : 140.747070
+Max power : 332.641602
+Average power : 217.468262
+
+------------------------------
+179
+
+Sub-circuit number : 85
+
+5-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 8.033333
+Average power : 103.759766
+
+-----Order from frequenct variables-----
+Node : 5
+Power : 68.359375
+
+-----Reverse order from frequent variables-----
+Node : 8
+Power : 104.980469
+
+-----Minimum power result-----
+Order : 3 4 1 2 5 
+Node : 5
+Power : 68.359375
+
+-----Minimum node result------
+Node : 5
+Min power : 68.359375
+Max power : 68.359375
+Average power : 68.359375
+
+------------------------------
+92
+
+Sub-circuit number : 86
+
+5-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 8.033333
+Average power : 103.759766
+
+-----Order from frequenct variables-----
+Node : 5
+Power : 68.359375
+
+-----Reverse order from frequent variables-----
+Node : 8
+Power : 104.980469
+
+-----Minimum power result-----
+Order : 3 4 1 2 5 
+Node : 5
+Power : 68.359375
+
+-----Minimum node result------
+Node : 5
+Min power : 68.359375
+Max power : 68.359375
+Average power : 68.359375
+
+------------------------------
+92
+
+Sub-circuit number : 87
+
+3-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 3.333333
+Average power : 44.531250
+
+-----Order from frequenct variables-----
+Node : 3
+Power : 32.031250
+
+-----Reverse order from frequent variables-----
+Node : 3
+Power : 50.781250
+
+-----Minimum power result-----
+Order : 3 1 2 
+Node : 3
+Power : 32.031250
+
+-----Minimum node result------
+Node : 3
+Min power : 32.031250
+Max power : 50.781250
+Average power : 41.406250
+
+------------------------------
+33
+
+Sub-circuit number : 88
+
+10-input logic function
+----------RESULT----------
+Time : 36.390625[s]
+Average nodes : 26.678175
+Average power : 1385.644050
+
+-----Order from frequenct variables-----
+Node : 14
+Power : 213.623047
+
+-----Reverse order from frequent variables-----
+Node : 20
+Power : 2382.993698
+
+-----Minimum power result-----
+Order : 10 9 1 2 3 4 5 7 6 8 
+Node : 12
+Power : 177.001953
+
+-----Minimum node result------
+Node : 12
+Min power : 177.001953
+Max power : 177.001953
+Average power : 177.001953
+
+------------------------------
+335
+
+Sub-circuit number : 89
+
+7-input logic function
+----------RESULT----------
+Time : 0.015625[s]
+Average nodes : 10.647619
+Average power : 309.988403
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 181.716919
+
+-----Reverse order from frequent variables-----
+Node : 10
+Power : 560.379028
+
+-----Minimum power result-----
+Order : 5 4 6 3 1 2 7 
+Node : 7
+Power : 110.232544
+
+-----Minimum node result------
+Node : 7
+Min power : 110.232544
+Max power : 679.397583
+Average power : 269.513702
+
+------------------------------
+117
+
+Sub-circuit number : 90
+
+9-input logic function
+----------RESULT----------
+Time : 4.593750[s]
+Average nodes : 31.987302
+Average power : 1976.519993
+
+-----Order from frequenct variables-----
+Node : 33
+Power : 1024.036407
+
+-----Reverse order from frequent variables-----
+Node : 29
+Power : 4744.052887
+
+-----Minimum power result-----
+Order : 8 7 6 1 2 4 5 3 9 
+Node : 16
+Power : 1024.036407
+
+-----Minimum node result------
+Node : 14
+Min power : 1421.146393
+Max power : 1421.146393
+Average power : 1421.146393
+
+------------------------------
+1338
+
+Sub-circuit number : 91
+
+5-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 8.033333
+Average power : 103.759766
+
+-----Order from frequenct variables-----
+Node : 5
+Power : 68.359375
+
+-----Reverse order from frequent variables-----
+Node : 8
+Power : 104.980469
+
+-----Minimum power result-----
+Order : 3 4 1 2 5 
+Node : 5
+Power : 68.359375
+
+-----Minimum node result------
+Node : 5
+Min power : 68.359375
+Max power : 68.359375
+Average power : 68.359375
+
+------------------------------
+92
+
+Sub-circuit number : 92
+
+8-input logic function
+----------RESULT----------
+Time : 0.593750[s]
+Average nodes : 26.297619
+Average power : 1247.117179
+
+-----Order from frequenct variables-----
+Node : 14
+Power : 239.257812
+
+-----Reverse order from frequent variables-----
+Node : 57
+Power : 3017.425537
+
+-----Minimum power result-----
+Order : 5 7 8 1 2 3 4 6 
+Node : 10
+Power : 239.257812
+
+-----Minimum node result------
+Node : 10
+Min power : 239.257812
+Max power : 239.257812
+Average power : 239.257812
+
+------------------------------
+458
+
+Sub-circuit number : 93
+
+8-input logic function
+----------RESULT----------
+Time : 0.609375[s]
+Average nodes : 26.297619
+Average power : 1247.117179
+
+-----Order from frequenct variables-----
+Node : 14
+Power : 239.257812
+
+-----Reverse order from frequent variables-----
+Node : 57
+Power : 3017.425537
+
+-----Minimum power result-----
+Order : 5 7 8 1 2 3 4 6 
+Node : 10
+Power : 239.257812
+
+-----Minimum node result------
+Node : 10
+Min power : 239.257812
+Max power : 239.257812
+Average power : 239.257812
+
+------------------------------
+458
+
+Sub-circuit number : 94
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 20.297619
+Average power : 751.434326
+
+-----Order from frequenct variables-----
+Node : 21
+Power : 527.648926
+
+-----Reverse order from frequent variables-----
+Node : 17
+Power : 1161.193848
+
+-----Minimum power result-----
+Order : 5 6 1 2 3 4 7 
+Node : 12
+Power : 527.648926
+
+-----Minimum node result------
+Node : 11
+Min power : 655.822754
+Max power : 655.822754
+Average power : 655.822754
+
+------------------------------
+708
+
+Sub-circuit number : 95
+
+5-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 10.800000
+Average power : 239.257812
+
+-----Order from frequenct variables-----
+Node : 13
+Power : 239.257812
+
+-----Reverse order from frequent variables-----
+Node : 9
+Power : 239.257812
+
+-----Minimum power result-----
+Order : 1 3 4 2 5 
+Node : 8
+Power : 239.257812
+
+-----Minimum node result------
+Node : 8
+Min power : 239.257812
+Max power : 239.257812
+Average power : 239.257812
+
+------------------------------
+316
+
+Sub-circuit number : 96
+
+9-input logic function
+----------RESULT----------
+Time : 2.406250[s]
+Average nodes : 19.361905
+Average power : 1130.440512
+
+-----Order from frequenct variables-----
+Node : 13
+Power : 458.577156
+
+-----Reverse order from frequent variables-----
+Node : 13
+Power : 1640.820503
+
+-----Minimum power result-----
+Order : 7 8 5 6 1 2 3 4 9 
+Node : 9
+Power : 379.768562
+
+-----Minimum node result------
+Node : 9
+Min power : 379.768562
+Max power : 1529.126167
+Average power : 789.961433
+
+------------------------------
+152
+
+Sub-circuit number : 97
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 15.592857
+Average power : 378.330776
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 107.177734
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 736.236572
+
+-----Minimum power result-----
+Order : 7 4 5 6 1 2 3 
+Node : 8
+Power : 107.177734
+
+-----Minimum node result------
+Node : 8
+Min power : 107.177734
+Max power : 107.177734
+Average power : 107.177734
+
+------------------------------
+181
+
+Sub-circuit number : 98
+
+10-input logic function
+----------RESULT----------
+Time : 35.015625[s]
+Average nodes : 28.059524
+Average power : 1804.831067
+
+-----Order from frequenct variables-----
+Node : 18
+Power : 413.879395
+
+-----Reverse order from frequent variables-----
+Node : 100
+Power : 6123.185158
+
+-----Minimum power result-----
+Order : 6 10 7 8 1 2 5 9 3 4 
+Node : 12
+Power : 203.234863
+
+-----Minimum node result------
+Node : 12
+Min power : 203.234863
+Max power : 569.152832
+Average power : 356.530762
+
+------------------------------
+559
+
+Sub-circuit number : 99
+
+7-input logic function
+----------RESULT----------
+Time : 0.015625[s]
+Average nodes : 15.592857
+Average power : 378.330776
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 107.177734
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 736.236572
+
+-----Minimum power result-----
+Order : 7 4 5 6 1 2 3 
+Node : 8
+Power : 107.177734
+
+-----Minimum node result------
+Node : 8
+Min power : 107.177734
+Max power : 107.177734
+Average power : 107.177734
+
+------------------------------
+181
+
+Sub-circuit number : 100
+
+10-input logic function
+----------RESULT----------
+Time : 35.312500[s]
+Average nodes : 28.059524
+Average power : 1804.831067
+
+-----Order from frequenct variables-----
+Node : 18
+Power : 413.879395
+
+-----Reverse order from frequent variables-----
+Node : 100
+Power : 6123.185158
+
+-----Minimum power result-----
+Order : 6 10 7 8 1 2 3 9 4 5 
+Node : 12
+Power : 203.234863
+
+-----Minimum node result------
+Node : 12
+Min power : 203.234863
+Max power : 569.152832
+Average power : 356.530762
+
+------------------------------
+562
+
+Sub-circuit number : 101
+
+10-input logic function
+----------RESULT----------
+Time : 49.156250[s]
+Average nodes : 30.092857
+Average power : 3959.837528
+
+-----Order from frequenct variables-----
+Node : 19
+Power : 986.480713
+
+-----Reverse order from frequent variables-----
+Node : 43
+Power : 7852.077484
+
+-----Minimum power result-----
+Order : 10 1 9 8 2 3 4 5 6 7 
+Node : 16
+Power : 629.425049
+
+-----Minimum node result------
+Node : 16
+Min power : 629.425049
+Max power : 2630.996704
+Average power : 1630.513808
+
+------------------------------
+864
+
+Sub-circuit number : 102
+
+4-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 6.000000
+Average power : 94.921875
+
+-----Order from frequenct variables-----
+Node : 5
+Power : 103.515625
+
+-----Reverse order from frequent variables-----
+Node : 5
+Power : 61.328125
+
+-----Minimum power result-----
+Order : 1 2 3 4 
+Node : 5
+Power : 61.328125
+
+-----Minimum node result------
+Node : 5
+Min power : 61.328125
+Max power : 126.953125
+Average power : 88.281250
+
+------------------------------
+67
+
+Sub-circuit number : 103
+
+9-input logic function
+----------RESULT----------
+Time : 5.203125[s]
+Average nodes : 31.757143
+Average power : 2030.591284
+
+-----Order from frequenct variables-----
+Node : 22
+Power : 884.485245
+
+-----Reverse order from frequent variables-----
+Node : 24
+Power : 2857.904434
+
+-----Minimum power result-----
+Order : 8 7 5 6 4 9 1 2 3 
+Node : 13
+Power : 884.485245
+
+-----Minimum node result------
+Node : 13
+Min power : 884.485245
+Max power : 1244.401932
+Average power : 1064.443588
+
+------------------------------
+507
+
+Sub-circuit number : 104
+
+5-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 7.066667
+Average power : 93.994141
+
+-----Order from frequenct variables-----
+Node : 5
+Power : 74.462891
+
+-----Reverse order from frequent variables-----
+Node : 5
+Power : 74.462891
+
+-----Minimum power result-----
+Order : 1 2 3 4 5 
+Node : 5
+Power : 74.462891
+
+-----Minimum node result------
+Node : 5
+Min power : 74.462891
+Max power : 74.462891
+Average power : 74.462891
+
+------------------------------
+62
+
+Sub-circuit number : 105
+
+7-input logic function
+----------RESULT----------
+Time : 0.046875[s]
+Average nodes : 15.276190
+Average power : 361.421858
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 107.177734
+
+-----Reverse order from frequent variables-----
+Node : 25
+Power : 690.460205
+
+-----Minimum power result-----
+Order : 7 4 5 6 1 2 3 
+Node : 8
+Power : 107.177734
+
+-----Minimum node result------
+Node : 8
+Min power : 107.177734
+Max power : 107.177734
+Average power : 107.177734
+
+------------------------------
+178
+
+Sub-circuit number : 106
+
+10-input logic function
+----------RESULT----------
+Time : 35.484375[s]
+Average nodes : 28.059524
+Average power : 1804.831067
+
+-----Order from frequenct variables-----
+Node : 18
+Power : 413.879395
+
+-----Reverse order from frequent variables-----
+Node : 100
+Power : 6123.185158
+
+-----Minimum power result-----
+Order : 6 7 9 1 3 5 8 4 2 10 
+Node : 12
+Power : 203.234863
+
+-----Minimum node result------
+Node : 12
+Min power : 203.234863
+Max power : 569.152832
+Average power : 356.530762
+
+------------------------------
+557
+
+Sub-circuit number : 107
+
+7-input logic function
+----------RESULT----------
+Time : 0.015625[s]
+Average nodes : 15.592857
+Average power : 378.330776
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 107.177734
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 736.236572
+
+-----Minimum power result-----
+Order : 7 4 5 6 1 2 3 
+Node : 8
+Power : 107.177734
+
+-----Minimum node result------
+Node : 8
+Min power : 107.177734
+Max power : 107.177734
+Average power : 107.177734
+
+------------------------------
+181
+
+Sub-circuit number : 108
+
+10-input logic function
+----------RESULT----------
+Time : 35.390625[s]
+Average nodes : 28.059524
+Average power : 1804.831067
+
+-----Order from frequenct variables-----
+Node : 19
+Power : 450.500488
+
+-----Reverse order from frequent variables-----
+Node : 108
+Power : 6145.536900
+
+-----Minimum power result-----
+Order : 6 9 8 4 3 2 7 1 5 10 
+Node : 12
+Power : 203.234863
+
+-----Minimum node result------
+Node : 12
+Min power : 203.234863
+Max power : 569.152832
+Average power : 356.530762
+
+------------------------------
+569
+
+Sub-circuit number : 109
+
+10-input logic function
+----------RESULT----------
+Time : 40.468750[s]
+Average nodes : 26.760317
+Average power : 1591.083670
+
+-----Order from frequenct variables-----
+Node : 18
+Power : 459.980965
+
+-----Reverse order from frequent variables-----
+Node : 50
+Power : 10764.598846
+
+-----Minimum power result-----
+Order : 7 4 9 3 2 1 5 6 8 10 
+Node : 13
+Power : 294.613838
+
+-----Minimum node result------
+Node : 13
+Min power : 294.613838
+Max power : 423.359871
+Average power : 359.358416
+
+------------------------------
+498
+
+Sub-circuit number : 110
+
+9-input logic function
+----------RESULT----------
+Time : 0.906250[s]
+Average nodes : 11.333333
+Average power : 134.110451
+
+-----Order from frequenct variables-----
+Node : 9
+Power : 134.110451
+
+-----Reverse order from frequent variables-----
+Node : 9
+Power : 134.110451
+
+-----Minimum power result-----
+Order : 1 2 3 4 5 6 7 8 9 
+Node : 9
+Power : 134.110451
+
+-----Minimum node result------
+Node : 9
+Min power : 134.110451
+Max power : 134.110451
+Average power : 134.110451
+
+------------------------------
+177
+
+Sub-circuit number : 111
+
+8-input logic function
+----------RESULT----------
+Time : 0.265625[s]
+Average nodes : 14.210714
+Average power : 418.591363
+
+-----Order from frequenct variables-----
+Node : 12
+Power : 180.210114
+
+-----Reverse order from frequent variables-----
+Node : 16
+Power : 1224.231720
+
+-----Minimum power result-----
+Order : 6 5 7 4 1 2 3 8 
+Node : 9
+Power : 143.589020
+
+-----Minimum node result------
+Node : 9
+Min power : 143.589020
+Max power : 283.206940
+Average power : 213.397980
+
+------------------------------
+174
+
+Sub-circuit number : 112
+
+6-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 11.350000
+Average power : 283.563232
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 255.432129
+
+-----Reverse order from frequent variables-----
+Node : 12
+Power : 261.657715
+
+-----Minimum power result-----
+Order : 2 6 1 4 3 5 
+Node : 8
+Power : 131.213379
+
+-----Minimum node result------
+Node : 8
+Min power : 131.213379
+Max power : 321.350098
+Average power : 226.867676
+
+------------------------------
+136
+
+Sub-circuit number : 113
+
+9-input logic function
+----------RESULT----------
+Time : 2.343750[s]
+Average nodes : 19.361905
+Average power : 1130.440512
+
+-----Order from frequenct variables-----
+Node : 13
+Power : 458.577156
+
+-----Reverse order from frequent variables-----
+Node : 13
+Power : 1640.820503
+
+-----Minimum power result-----
+Order : 7 8 5 6 1 2 3 4 9 
+Node : 9
+Power : 379.768562
+
+-----Minimum node result------
+Node : 9
+Min power : 379.768562
+Max power : 1529.126167
+Average power : 789.961433
+
+------------------------------
+152
+
+Sub-circuit number : 114
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 15.276190
+Average power : 361.421858
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 107.177734
+
+-----Reverse order from frequent variables-----
+Node : 25
+Power : 690.460205
+
+-----Minimum power result-----
+Order : 7 4 5 6 1 2 3 
+Node : 8
+Power : 107.177734
+
+-----Minimum node result------
+Node : 8
+Min power : 107.177734
+Max power : 107.177734
+Average power : 107.177734
+
+------------------------------
+178
+
+Sub-circuit number : 115
+
+10-input logic function
+----------RESULT----------
+Time : 35.484375[s]
+Average nodes : 28.059524
+Average power : 1804.831067
+
+-----Order from frequenct variables-----
+Node : 18
+Power : 413.879395
+
+-----Reverse order from frequent variables-----
+Node : 100
+Power : 6123.185158
+
+-----Minimum power result-----
+Order : 6 10 7 8 1 2 4 9 5 3 
+Node : 12
+Power : 203.234863
+
+-----Minimum node result------
+Node : 12
+Min power : 203.234863
+Max power : 569.152832
+Average power : 356.530762
+
+------------------------------
+554
+
+Sub-circuit number : 116
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 15.276190
+Average power : 361.421858
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 107.177734
+
+-----Reverse order from frequent variables-----
+Node : 25
+Power : 690.460205
+
+-----Minimum power result-----
+Order : 7 4 5 6 1 2 3 
+Node : 8
+Power : 107.177734
+
+-----Minimum node result------
+Node : 8
+Min power : 107.177734
+Max power : 107.177734
+Average power : 107.177734
+
+------------------------------
+178
+
+Sub-circuit number : 117
+
+10-input logic function
+----------RESULT----------
+Time : 35.187500[s]
+Average nodes : 28.059524
+Average power : 1804.831067
+
+-----Order from frequenct variables-----
+Node : 18
+Power : 413.879395
+
+-----Reverse order from frequent variables-----
+Node : 100
+Power : 6123.185158
+
+-----Minimum power result-----
+Order : 6 10 7 8 4 1 3 9 2 5 
+Node : 12
+Power : 203.234863
+
+-----Minimum node result------
+Node : 12
+Min power : 203.234863
+Max power : 569.152832
+Average power : 356.530762
+
+------------------------------
+556
+
+Sub-circuit number : 118
+
+9-input logic function
+----------RESULT----------
+Time : 4.015625[s]
+Average nodes : 27.005556
+Average power : 2001.350494
+
+-----Order from frequenct variables-----
+Node : 23
+Power : 1114.654541
+
+-----Reverse order from frequent variables-----
+Node : 30
+Power : 2550.315857
+
+-----Minimum power result-----
+Order : 8 1 7 2 3 4 5 6 9 
+Node : 15
+Power : 629.425049
+
+-----Minimum node result------
+Node : 15
+Min power : 629.425049
+Max power : 629.425049
+Average power : 629.425049
+
+------------------------------
+820
+
+Sub-circuit number : 119
+
+9-input logic function
+----------RESULT----------
+Time : 4.328125[s]
+Average nodes : 29.328175
+Average power : 2177.531887
+
+-----Order from frequenct variables-----
+Node : 17
+Power : 1933.002472
+
+-----Reverse order from frequent variables-----
+Node : 19
+Power : 1549.346161
+
+-----Minimum power result-----
+Order : 1 8 9 2 3 4 5 6 7 
+Node : 14
+Power : 769.431305
+
+-----Minimum node result------
+Node : 13
+Min power : 842.673492
+Max power : 1789.264679
+Average power : 1280.110931
+
+------------------------------
+736
+
+Sub-circuit number : 120
+
+7-input logic function
+----------RESULT----------
+Time : 0.015625[s]
+Average nodes : 10.650000
+Average power : 132.560730
+
+-----Order from frequenct variables-----
+Node : 9
+Power : 68.664551
+
+-----Reverse order from frequent variables-----
+Node : 13
+Power : 171.661377
+
+-----Minimum power result-----
+Order : 7 6 1 2 3 4 5 
+Node : 7
+Power : 68.664551
+
+-----Minimum node result------
+Node : 7
+Min power : 68.664551
+Max power : 68.664551
+Average power : 68.664551
+
+------------------------------
+109
+
+Sub-circuit number : 121
+
+10-input logic function
+----------RESULT----------
+Time : 36.265625[s]
+Average nodes : 26.520635
+Average power : 1655.553068
+
+-----Order from frequenct variables-----
+Node : 19
+Power : 496.293545
+
+-----Reverse order from frequent variables-----
+Node : 11
+Power : 5109.012127
+
+-----Minimum power result-----
+Order : 9 8 7 6 5 4 3 1 2 10 
+Node : 11
+Power : 496.293545
+
+-----Minimum node result------
+Node : 11
+Min power : 496.293545
+Max power : 5109.012127
+Average power : 1468.939826
+
+------------------------------
+487
+
+Sub-circuit number : 122
+
+6-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 8.933333
+Average power : 106.048584
+
+-----Order from frequenct variables-----
+Node : 7
+Power : 54.931641
+
+-----Reverse order from frequent variables-----
+Node : 10
+Power : 137.329102
+
+-----Minimum power result-----
+Order : 5 1 2 3 4 6 
+Node : 6
+Power : 54.931641
+
+-----Minimum node result------
+Node : 6
+Min power : 54.931641
+Max power : 54.931641
+Average power : 54.931641
+
+------------------------------
+88
+
+Sub-circuit number : 123
+
+8-input logic function
+----------RESULT----------
+Time : 0.328125[s]
+Average nodes : 18.722619
+Average power : 700.767517
+
+-----Order from frequenct variables-----
+Node : 15
+Power : 295.127869
+
+-----Reverse order from frequent variables-----
+Node : 9
+Power : 1406.669617
+
+-----Minimum power result-----
+Order : 7 6 5 4 3 1 2 8 
+Node : 9
+Power : 295.127869
+
+-----Minimum node result------
+Node : 9
+Min power : 295.127869
+Max power : 1406.669617
+Average power : 610.873222
+
+------------------------------
+326
+
+Sub-circuit number : 124
+
+7-input logic function
+----------RESULT----------
+Time : 0.015625[s]
+Average nodes : 10.650000
+Average power : 132.560730
+
+-----Order from frequenct variables-----
+Node : 7
+Power : 68.664551
+
+-----Reverse order from frequent variables-----
+Node : 9
+Power : 171.661377
+
+-----Minimum power result-----
+Order : 6 5 4 1 2 3 7 
+Node : 7
+Power : 68.664551
+
+-----Minimum node result------
+Node : 7
+Min power : 68.664551
+Max power : 68.664551
+Average power : 68.664551
+
+------------------------------
+109
+
+Sub-circuit number : 125
+
+10-input logic function
+----------RESULT----------
+Time : 45.890625[s]
+Average nodes : 30.765873
+Average power : 2507.682996
+
+-----Order from frequenct variables-----
+Node : 18
+Power : 778.660774
+
+-----Reverse order from frequent variables-----
+Node : 27
+Power : 3802.204132
+
+-----Minimum power result-----
+Order : 6 10 1 2 3 4 7 9 5 8 
+Node : 12
+Power : 432.426643
+
+-----Minimum node result------
+Node : 11
+Min power : 535.423470
+Max power : 1928.362846
+Average power : 989.574732
+
+------------------------------
+294
+
+Sub-circuit number : 126
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 15.592857
+Average power : 378.330776
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 107.177734
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 736.236572
+
+-----Minimum power result-----
+Order : 7 4 5 6 1 2 3 
+Node : 8
+Power : 107.177734
+
+-----Minimum node result------
+Node : 8
+Min power : 107.177734
+Max power : 107.177734
+Average power : 107.177734
+
+------------------------------
+181
+
+Sub-circuit number : 127
+
+10-input logic function
+----------RESULT----------
+Time : 35.625000[s]
+Average nodes : 28.059524
+Average power : 1804.831067
+
+-----Order from frequenct variables-----
+Node : 19
+Power : 450.500488
+
+-----Reverse order from frequent variables-----
+Node : 108
+Power : 6145.536900
+
+-----Minimum power result-----
+Order : 6 9 8 4 3 2 7 1 5 10 
+Node : 12
+Power : 203.234863
+
+-----Minimum node result------
+Node : 12
+Min power : 203.234863
+Max power : 569.152832
+Average power : 356.530762
+
+------------------------------
+569
+
+Sub-circuit number : 128
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 13.133333
+Average power : 217.056274
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 91.552734
+
+-----Reverse order from frequent variables-----
+Node : 23
+Power : 400.543213
+
+-----Minimum power result-----
+Order : 6 1 5 2 3 4 7 
+Node : 8
+Power : 91.552734
+
+-----Minimum node result------
+Node : 8
+Min power : 91.552734
+Max power : 91.552734
+Average power : 91.552734
+
+------------------------------
+159
+
+Sub-circuit number : 129
+
+10-input logic function
+----------RESULT----------
+Time : 44.921875[s]
+Average nodes : 32.138095
+Average power : 2382.444921
+
+-----Order from frequenct variables-----
+Node : 17
+Power : 433.410645
+
+-----Reverse order from frequent variables-----
+Node : 93
+Power : 8478.283882
+
+-----Minimum power result-----
+Order : 5 10 9 8 7 1 2 3 4 6 
+Node : 13
+Power : 222.766113
+
+-----Minimum node result------
+Node : 13
+Min power : 222.766113
+Max power : 470.031738
+Average power : 329.396275
+
+------------------------------
+535
+
+Sub-circuit number : 130
+
+3-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 3.333333
+Average power : 44.531250
+
+-----Order from frequenct variables-----
+Node : 3
+Power : 32.031250
+
+-----Reverse order from frequent variables-----
+Node : 3
+Power : 50.781250
+
+-----Minimum power result-----
+Order : 3 1 2 
+Node : 3
+Power : 32.031250
+
+-----Minimum node result------
+Node : 3
+Min power : 32.031250
+Max power : 50.781250
+Average power : 41.406250
+
+------------------------------
+33
+
+Sub-circuit number : 131
+
+10-input logic function
+----------RESULT----------
+Time : 74.578125[s]
+Average nodes : 44.118254
+Average power : 6617.755163
+
+-----Order from frequenct variables-----
+Node : 15
+Power : 2890.453339
+
+-----Reverse order from frequent variables-----
+Node : 14
+Power : 6493.282318
+
+-----Minimum power result-----
+Order : 5 6 1 2 3 4 7 8 9 10 
+Node : 14
+Power : 2672.100067
+
+-----Minimum node result------
+Node : 14
+Min power : 2672.100067
+Max power : 6493.282318
+Average power : 3771.953583
+
+------------------------------
+495
+
+Sub-circuit number : 132
+
+8-input logic function
+----------RESULT----------
+Time : 0.171875[s]
+Average nodes : 12.366667
+Average power : 165.700912
+
+-----Order from frequenct variables-----
+Node : 11
+Power : 85.830688
+
+-----Reverse order from frequent variables-----
+Node : 16
+Power : 214.576721
+
+-----Minimum power result-----
+Order : 7 1 2 3 4 5 6 8 
+Node : 8
+Power : 85.830688
+
+-----Minimum node result------
+Node : 8
+Min power : 85.830688
+Max power : 85.830688
+Average power : 85.830688
+
+------------------------------
+134
+
+Sub-circuit number : 133
+
+8-input logic function
+----------RESULT----------
+Time : 0.578125[s]
+Average nodes : 26.297619
+Average power : 1247.117179
+
+-----Order from frequenct variables-----
+Node : 14
+Power : 239.257812
+
+-----Reverse order from frequent variables-----
+Node : 57
+Power : 3017.425537
+
+-----Minimum power result-----
+Order : 5 7 8 1 2 3 4 6 
+Node : 10
+Power : 239.257812
+
+-----Minimum node result------
+Node : 10
+Min power : 239.257812
+Max power : 239.257812
+Average power : 239.257812
+
+------------------------------
+458
+
+Sub-circuit number : 134
+
+6-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 11.766667
+Average power : 311.474609
+
+-----Order from frequenct variables-----
+Node : 9
+Power : 384.521484
+
+-----Reverse order from frequent variables-----
+Node : 8
+Power : 229.248047
+
+-----Minimum power result-----
+Order : 1 2 3 4 5 6 
+Node : 8
+Power : 229.248047
+
+-----Minimum node result------
+Node : 8
+Min power : 229.248047
+Max power : 384.521484
+Average power : 306.884766
+
+------------------------------
+262
+
+Sub-circuit number : 135
+
+8-input logic function
+----------RESULT----------
+Time : 0.312500[s]
+Average nodes : 18.777381
+Average power : 506.850651
+
+-----Order from frequenct variables-----
+Node : 12
+Power : 201.797485
+
+-----Reverse order from frequent variables-----
+Node : 24
+Power : 747.680664
+
+-----Minimum power result-----
+Order : 8 5 6 2 7 3 1 4 
+Node : 9
+Power : 201.797485
+
+-----Minimum node result------
+Node : 9
+Min power : 201.797485
+Max power : 304.794312
+Average power : 242.996216
+
+------------------------------
+319
+
+Sub-circuit number : 136
+
+10-input logic function
+----------RESULT----------
+Time : 36.812500[s]
+Average nodes : 28.741667
+Average power : 2179.304307
+
+-----Order from frequenct variables-----
+Node : 19
+Power : 717.224121
+
+-----Reverse order from frequent variables-----
+Node : 63
+Power : 4485.118389
+
+-----Minimum power result-----
+Order : 4 5 10 9 8 3 2 7 6 1 
+Node : 12
+Power : 243.273926
+
+-----Minimum node result------
+Node : 12
+Min power : 243.273926
+Max power : 717.224121
+Average power : 489.025879
+
+------------------------------
+382
+
+Sub-circuit number : 137
+
+2-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 2.000000
+Average power : 15.625000
+
+-----Order from frequenct variables-----
+Node : 2
+Power : 15.625000
+
+-----Reverse order from frequent variables-----
+Node : 2
+Power : 15.625000
+
+-----Minimum power result-----
+Order : 1 2 
+Node : 2
+Power : 15.625000
+
+-----Minimum node result------
+Node : 2
+Min power : 15.625000
+Max power : 15.625000
+Average power : 15.625000
+
+------------------------------
+20
+
+Sub-circuit number : 138
+
+8-input logic function
+----------RESULT----------
+Time : 0.281250[s]
+Average nodes : 18.253571
+Average power : 464.493888
+
+-----Order from frequenct variables-----
+Node : 11
+Power : 122.070312
+
+-----Reverse order from frequent variables-----
+Node : 38
+Power : 1406.669617
+
+-----Minimum power result-----
+Order : 8 7 6 3 4 5 1 2 
+Node : 10
+Power : 122.070312
+
+-----Minimum node result------
+Node : 10
+Min power : 122.070312
+Max power : 122.070312
+Average power : 122.070312
+
+------------------------------
+257
+
+Sub-circuit number : 139
+
+10-input logic function
+----------RESULT----------
+Time : 26.375000[s]
+Average nodes : 16.413095
+Average power : 912.847685
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 149.701118
+
+-----Reverse order from frequent variables-----
+Node : 15
+Power : 1773.922443
+
+-----Minimum power result-----
+Order : 10 7 8 9 1 2 3 4 5 6 
+Node : 10
+Power : 149.701118
+
+-----Minimum node result------
+Node : 10
+Min power : 149.701118
+Max power : 664.891243
+Average power : 426.299095
+
+------------------------------
+177
+
+Sub-circuit number : 140
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 15.592857
+Average power : 378.330776
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 107.177734
+
+-----Reverse order from frequent variables-----
+Node : 26
+Power : 736.236572
+
+-----Minimum power result-----
+Order : 7 4 5 6 1 2 3 
+Node : 8
+Power : 107.177734
+
+-----Minimum node result------
+Node : 8
+Min power : 107.177734
+Max power : 107.177734
+Average power : 107.177734
+
+------------------------------
+179
+
+Sub-circuit number : 141
+
+8-input logic function
+----------RESULT----------
+Time : 0.328125[s]
+Average nodes : 17.822619
+Average power : 432.477679
+
+-----Order from frequenct variables-----
+Node : 12
+Power : 122.070312
+
+-----Reverse order from frequent variables-----
+Node : 40
+Power : 1478.195190
+
+-----Minimum power result-----
+Order : 8 7 6 1 2 3 4 5 
+Node : 10
+Power : 122.070312
+
+-----Minimum node result------
+Node : 10
+Min power : 122.070312
+Max power : 122.070312
+Average power : 122.070312
+
+------------------------------
+264
+
+Sub-circuit number : 142
+
+7-input logic function
+----------RESULT----------
+Time : 0.046875[s]
+Average nodes : 18.073810
+Average power : 706.553432
+
+-----Order from frequenct variables-----
+Node : 11
+Power : 638.580322
+
+-----Reverse order from frequent variables-----
+Node : 13
+Power : 542.742920
+
+-----Minimum power result-----
+Order : 1 6 7 2 3 4 5 
+Node : 10
+Power : 309.283447
+
+-----Minimum node result------
+Node : 10
+Min power : 309.283447
+Max power : 671.539307
+Average power : 472.558594
+
+------------------------------
+330
+
+Sub-circuit number : 143
+
+10-input logic function
+----------RESULT----------
+Time : 46.875000[s]
+Average nodes : 30.765873
+Average power : 2507.682996
+
+-----Order from frequenct variables-----
+Node : 18
+Power : 778.660774
+
+-----Reverse order from frequent variables-----
+Node : 27
+Power : 3802.204132
+
+-----Minimum power result-----
+Order : 6 10 1 2 3 4 7 9 5 8 
+Node : 12
+Power : 432.426643
+
+-----Minimum node result------
+Node : 11
+Min power : 535.423470
+Max power : 1928.362846
+Average power : 989.574732
+
+------------------------------
+294
+
+Sub-circuit number : 144
+
+7-input logic function
+----------RESULT----------
+Time : 0.031250[s]
+Average nodes : 15.276190
+Average power : 361.421858
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 107.177734
+
+-----Reverse order from frequent variables-----
+Node : 25
+Power : 690.460205
+
+-----Minimum power result-----
+Order : 7 4 5 1 6 2 3 
+Node : 8
+Power : 107.177734
+
+-----Minimum node result------
+Node : 8
+Min power : 107.177734
+Max power : 107.177734
+Average power : 107.177734
+
+------------------------------
+179
+
+Sub-circuit number : 145
+
+10-input logic function
+----------RESULT----------
+Time : 36.296875[s]
+Average nodes : 28.059524
+Average power : 1804.831067
+
+-----Order from frequenct variables-----
+Node : 18
+Power : 413.879395
+
+-----Reverse order from frequent variables-----
+Node : 100
+Power : 6123.185158
+
+-----Minimum power result-----
+Order : 6 10 7 8 4 1 3 9 2 5 
+Node : 12
+Power : 203.234863
+
+-----Minimum node result------
+Node : 12
+Min power : 203.234863
+Max power : 569.152832
+Average power : 356.530762
+
+------------------------------
+556
+
+Sub-circuit number : 146
+
+7-input logic function
+----------RESULT----------
+Time : 0.015625[s]
+Average nodes : 13.126190
+Average power : 199.699402
+
+-----Order from frequenct variables-----
+Node : 10
+Power : 91.552734
+
+-----Reverse order from frequent variables-----
+Node : 21
+Power : 457.763672
+
+-----Minimum power result-----
+Order : 5 6 1 2 3 4 7 
+Node : 9
+Power : 91.552734
+
+-----Minimum node result------
+Node : 9
+Min power : 91.552734
+Max power : 91.552734
+Average power : 91.552734
+
+------------------------------
+159
+
+Sub-circuit number : 147
+
+10-input logic function
+----------RESULT----------
+Time : 46.515625[s]
+Average nodes : 31.890476
+Average power : 2397.777841
+
+-----Order from frequenct variables-----
+Node : 18
+Power : 470.031738
+
+-----Reverse order from frequent variables-----
+Node : 97
+Power : 8929.789066
+
+-----Minimum power result-----
+Order : 5 10 8 7 9 1 2 3 4 6 
+Node : 13
+Power : 222.766113
+
+-----Minimum node result------
+Node : 13
+Min power : 222.766113
+Max power : 470.031738
+Average power : 329.496883
+
+------------------------------
+561
+
+Sub-circuit number : 148
+
+7-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 8.666667
+Average power : 85.830688
+
+-----Order from frequenct variables-----
+Node : 7
+Power : 85.830688
+
+-----Reverse order from frequent variables-----
+Node : 7
+Power : 85.830688
+
+-----Minimum power result-----
+Order : 1 2 3 4 5 6 7 
+Node : 7
+Power : 85.830688
+
+-----Minimum node result------
+Node : 7
+Min power : 85.830688
+Max power : 85.830688
+Average power : 85.830688
+
+------------------------------
+123
+
+Sub-circuit number : 149
+
+10-input logic function
+----------RESULT----------
+Time : 21.890625[s]
+Average nodes : 22.833333
+Average power : 589.370728
+
+-----Order from frequenct variables-----
+Node : 13
+Power : 483.542681
+
+-----Reverse order from frequent variables-----
+Node : 13
+Power : 265.389681
+
+-----Minimum power result-----
+Order : 1 2 3 4 5 6 7 8 9 10 
+Node : 13
+Power : 265.389681
+
+-----Minimum node result------
+Node : 13
+Min power : 265.389681
+Max power : 483.542681
+Average power : 435.064236
+
+------------------------------
+332
+
+Sub-circuit number : 150
+
+9-input logic function
+----------RESULT----------
+Time : 1.984375[s]
+Average nodes : 16.237302
+Average power : 636.437779
+
+-----Order from frequenct variables-----
+Node : 11
+Power : 915.040016
+
+-----Reverse order from frequent variables-----
+Node : 11
+Power : 215.275002
+
+-----Minimum power result-----
+Order : 1 2 5 6 7 3 4 8 9 
+Node : 9
+Power : 215.275002
+
+-----Minimum node result------
+Node : 9
+Min power : 215.275002
+Max power : 1358.704567
+Average power : 562.460041
+
+------------------------------
+236
+
+Sub-circuit number : 151
+
+9-input logic function
+----------RESULT----------
+Time : 6.406250[s]
+Average nodes : 34.321825
+Average power : 3895.841326
+
+-----Order from frequenct variables-----
+Node : 31
+Power : 2239.227295
+
+-----Reverse order from frequent variables-----
+Node : 20
+Power : 5254.745483
+
+-----Minimum power result-----
+Order : 5 4 6 1 2 3 7 8 9 
+Node : 12
+Power : 1598.358154
+
+-----Minimum node result------
+Node : 12
+Min power : 1598.358154
+Max power : 2010.345459
+Average power : 1804.351807
+
+------------------------------
+2163
+
+Sub-circuit number : 152
+
+10-input logic function
+----------RESULT----------
+Time : 134.375000[s]
+Average nodes : 83.741667
+Average power : 12206.467631
+
+-----Order from frequenct variables-----
+Node : 91
+Power : 7858.633995
+
+-----Reverse order from frequent variables-----
+Node : 59
+Power : 22488.832474
+
+-----Minimum power result-----
+Order : 8 7 4 2 1 5 3 6 9 10 
+Node : 33
+Power : 5208.253860
+
+-----Minimum node result------
+Node : 25
+Min power : 5408.525467
+Max power : 5408.525467
+Average power : 5408.525467
+
+------------------------------
+11102
+
+Sub-circuit number : 153
+
+9-input logic function
+----------RESULT----------
+Time : 6.187500[s]
+Average nodes : 40.493651
+Average power : 2951.852594
+
+-----Order from frequenct variables-----
+Node : 29
+Power : 1961.231232
+
+-----Reverse order from frequent variables-----
+Node : 29
+Power : 3008.365631
+
+-----Minimum power result-----
+Order : 6 4 7 5 3 2 1 8 9 
+Node : 23
+Power : 1407.222748
+
+-----Minimum node result------
+Node : 15
+Min power : 1739.215851
+Max power : 1739.215851
+Average power : 1739.215851
+
+------------------------------
+1863
+
+Sub-circuit number : 154
+
+6-input logic function
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 13.550000
+Average power : 622.558594
+
+-----Order from frequenct variables-----
+Node : 11
+Power : 524.902344
+
+-----Reverse order from frequent variables-----
+Node : 9
+Power : 671.386719
+
+-----Minimum power result-----
+Order : 3 1 2 4 5 6 
+Node : 9
+Power : 524.902344
+
+-----Minimum node result------
+Node : 9
+Min power : 524.902344
+Max power : 671.386719
+Average power : 598.144531
+
+------------------------------
+713
+

@@ -1,0 +1,67 @@
+7-input
+min power : 527.648926
+time : 4359.375000[ms]
+
+min power : 527.648926
+time : 3937.500000[ms]
+
+8-input
+min power : 369.720459
+time : 13781.250000[ms]
+iteration : 1032144
+
+min power : 369.720459
+time : 16109.375000[ms]
+iteration : 2188440
+
+9-input
+min power : 1581.420898
+time : 332453.125000[ms]
+iteration : 15366097
+
+min power : 1581.420898
+time : 347484.375000[ms]
+iteration : 33395617
+
+10-input  circuit : iscas_c7552_lut10_62.sh
+normal BDD power : 5260.782242
+
+min power : 1196.794510
+time : 3670343.750000[ms]
+
+min power : 1196.794510
+time : 3132265.625000[ms]
+
+6-input 100,000 function
+
+Count 70772
+Average
+Power Node
+66.6364 1.89971
+Best case
+Powerdif mnodepower nodedif
+457.764 912.17 3
+1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 0 0 1 0 1 1 1 0 0 0 0 0 1 1 1 0 0 0 0 1 1 1 1 1 1 0 1 0 1 0 1 1 
+
+Count 70952
+Average
+Power
+66.6164 10.6939%
+Node
+1.89838 8.65015%
+Best case
+Powerdif mnodepower nodedif
+494.69 1014.71 1
+0 0 1 1 1 1 1 1 1 0 0 0 1 1 0 0 1 1 0 0 0 1 1 0 0 1 1 1 1 0 0 1 1 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 0 0 1 0 1 0 1 1 1 0 1 0 0 1 1 1
+
+
+5-input 100,000 function
+
+Count 33005
+Average
+Power Node
+30.4907 1.24781
+Best case
+Powerdif mnodepower nodedif
+184.57 385.742 1
+0 1 1 1 1 0 1 1 1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 1 1 1 0 1 1 0 1 1

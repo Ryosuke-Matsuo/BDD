@@ -1,0 +1,279 @@
+1-input 
+
+Number of circuits : 47
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 1.000000
+Average power : 0.012500[mW]
+
+-----Order from frequenct variables-----
+Node : 1.000000
+Power : 0.012500[mW]
+
+-----Reverse order from frequent variables-----
+Node : 1.000000
+Power : 0.012500[mW]
+
+-----Minimum power result-----
+Node : 1.000000
+Power : 0.012500[mW]
+
+-----Minimum node result------
+Node : 1.000000
+Min power : 0.012500[mW]
+Max power : 0.012500[mW]
+Average power : 0.012500[mW]
+
+------------------------------
+
+2-input
+
+Number of circuits : 12
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 2.250000
+Average power : 0.019531[mW]
+
+-----Order from frequenct variables-----
+Node : 2.250000
+Power : 0.019531[mW]
+
+-----Reverse order from frequent variables-----
+Node : 2.250000
+Power : 0.019531[mW]
+
+-----Minimum power result-----
+Node : 2.250000
+Power : 0.019531[mW]
+
+-----Minimum node result------
+Node : 2.250000
+Min power : 0.019531[mW]
+Max power : 0.019531[mW]
+Average power : 0.019531[mW]
+
+------------------------------
+
+3-input
+
+Number of circuits : 11
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 3.909091
+Average power : 0.044744[mW]
+
+-----Order from frequenct variables-----
+Node : 3.545455
+Power : 0.039062[mW]
+
+-----Reverse order from frequent variables-----
+Node : 4.181818
+Power : 0.047585[mW]
+
+-----Minimum power result-----
+Node : 3.454545
+Power : 0.039062[mW]
+
+-----Minimum node result------
+Node : 3.454545
+Min power : 0.039062[mW]
+Max power : 0.039062[mW]
+Average power : 0.039062[mW]
+
+------------------------------
+
+4-input
+
+Number of circuits : 11
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 3.909091
+Average power : 0.044744[mW]
+
+-----Order from frequenct variables-----
+Node : 3.545455
+Power : 0.039062[mW]
+
+-----Reverse order from frequent variables-----
+Node : 4.181818
+Power : 0.047585[mW]
+
+-----Minimum power result-----
+Node : 3.454545
+Power : 0.039062[mW]
+
+-----Minimum node result------
+Node : 3.454545
+Min power : 0.039062[mW]
+Max power : 0.039062[mW]
+Average power : 0.039062[mW]
+
+------------------------------
+
+5-input
+
+Number of circuits : 36
+----------RESULT----------
+Time : 0.000000[s]
+Average nodes : 9.556944
+Average power : 0.202512[mW]
+
+-----Order from frequenct variables-----
+Node : 7.222222
+Power : 0.091113[mW]
+
+-----Reverse order from frequent variables-----
+Node : 9.694444
+Power : 0.286011[mW]
+
+-----Minimum power result-----
+Node : 6.666667
+Power : 0.090462[mW]
+
+-----Minimum node result------
+Node : 6.666667
+Min power : 0.090462[mW]
+Max power : 0.096191[mW]
+Average power : 0.093083[mW]
+
+------------------------------
+
+6-input
+
+Number of circuits : 17
+----------RESULT----------
+Time : 0.000919[s]
+Average nodes : 12.184069
+Average power : 0.342631[mW]
+
+-----Order from frequenct variables-----
+Node : 10.588235
+Power : 0.235871[mW]
+
+-----Reverse order from frequent variables-----
+Node : 12.117647
+Power : 0.448644[mW]
+
+-----Minimum power result-----
+Node : 7.411765
+Power : 0.215191[mW]
+
+-----Minimum node result------
+Node : 7.411765
+Min power : 0.215191[mW]
+Max power : 0.272665[mW]
+Average power : 0.239243[mW]
+
+------------------------------
+
+7-input
+
+Number of circuits : 45
+----------RESULT----------
+Time : 0.036806[s]
+Average nodes : 18.152592
+Average power : 0.591072[mW]
+
+-----Order from frequenct variables-----
+Node : 15.244444
+Power : 0.345776[mW]
+
+-----Reverse order from frequent variables-----
+Node : 22.488889
+Power : 0.898111[mW]
+
+-----Minimum power result-----
+Node : 9.755556
+Power : 0.323737[mW]
+
+-----Minimum node result------
+Node : 9.755556
+Min power : 0.323737[mW]
+Max power : 0.404510[mW]
+Average power : 0.357591[mW]
+
+------------------------------
+
+8-input
+
+Number of circuits : 31
+----------RESULT----------
+Time : 0.419355[s]
+Average nodes : 20.730697
+Average power : 1.422459[mW]
+
+-----Order from frequenct variables-----
+Node : 17.064516
+Power : 0.802879[mW]
+
+-----Reverse order from frequent variables-----
+Node : 19.000000
+Power : 1.949257[mW]
+
+-----Minimum power result-----
+Node : 10.838710
+Power : 0.653360[mW]
+
+-----Minimum node result------
+Node : 10.548387
+Min power : 0.671691[mW]
+Max power : 0.951796[mW]
+Average power : 0.788083[mW]
+
+------------------------------
+
+9-input
+
+Number of circuits : 66
+----------RESULT----------
+Time : 4.240057[s]
+Average nodes : 25.326473
+Average power : 2.266666[mW]
+
+-----Order from frequenct variables-----
+Node : 17.075758
+Power : 0.857417[mW]
+
+-----Reverse order from frequent variables-----
+Node : 24.303030
+Power : 4.103910[mW]
+
+-----Minimum power result-----
+Node : 12.212121
+Power : 0.666034[mW]
+
+-----Minimum node result------
+Node : 11.954545
+Min power : 0.710068[mW]
+Max power : 0.943596[mW]
+Average power : 0.799039[mW]
+
+------------------------------
+
+10-input
+
+Number of circuits : 52
+----------RESULT----------
+Time : 63.131611[s]
+Average nodes : 38.218564
+Average power : 5.972332[mW]
+
+-----Order from frequenct variables-----
+Node : 34.480769
+Power : 2.648228[mW]
+
+-----Reverse order from frequent variables-----
+Node : 63.500000
+Power : 12.457218[mW]
+
+-----Minimum power result-----
+Node : 16.692308
+Power : 1.839532[mW]
+
+-----Minimum node result------
+Node : 15.711538
+Min power : 1.915200[mW]
+Max power : 2.758282[mW]
+Average power : 2.166911[mW]
+
+------------------------------
